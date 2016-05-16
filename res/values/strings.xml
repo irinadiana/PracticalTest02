@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="start">Start</string>
+     <string name="port">Port</string>
+     <string name="mul">Inmultire</string>
+     <string name="add">Adunare</string>
+     <string name="op1">Operator1</string>
+     <string name="op2">Operator2</string>
+</resources>
